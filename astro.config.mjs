@@ -2,6 +2,6 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://michalwedzik.github.io',
-  base: '/links-page-mwedzik',
+  site: 'https://links-page-mwedzik.michalwedzik.workers.dev/',
+  base: '/',
 });
