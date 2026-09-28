@@ -1,0 +1,16 @@
+[
+  {
+    "name": "facebook",
+    "url": "https://www.facebook.com/michalwedzik/",
+    "icon": "",
+    "order": 2,
+    "active": false
+  },
+  {
+    "name": "github",
+    "url": "https://github.com/michalwedzik",
+    "icon": "",
+    "order": 1,
+    "active": true
+  }
+]
